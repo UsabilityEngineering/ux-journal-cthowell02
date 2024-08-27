@@ -1,6 +1,6 @@
-# UX Portfolio
+# Carson Howell's UX Portfolio
 
-About me...
+Hello, my name is Carson Howell. I was born and raised in Chico and this is my 5th and final year at Chico State. I am a Mechanical Engineering and Mechatronic Engineering Major with a minor in Advanced Manufacturing. 
 
 ## UX Team Project
 
