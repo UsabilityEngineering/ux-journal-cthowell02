@@ -6,7 +6,7 @@ Hello, my name is Carson Howell. I was born and raised in Chico and this is my 5
 
 ## UX Team Project
 
-Coming soon.
+[PickUp](https://chicostate.github.io/ux-Pickup/)
 
 ## UX Journal
 
